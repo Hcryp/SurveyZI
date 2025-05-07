@@ -1,0 +1,14 @@
+{
+  "resources/main.jsx": {
+    "file": "build/main.89dfb8d7.js",
+    "src": "resources/main.jsx",
+    "isEntry": true,
+    "css": [
+      "build/main.c639b322.css"
+    ]
+  },
+  "resources/main.css": {
+    "file": "build/main.c639b322.css",
+    "src": "resources/main.css"
+  }
+}
